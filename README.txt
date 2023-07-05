@@ -1,0 +1,1 @@
+The script checks the map using the Luna algorithm. Implemented Api communication with bincheck.io 
